@@ -231,6 +231,9 @@ ul {
 
 li {
   float: left;
+}
+
+li.bullet {
   margin-left: 18px;
 }
 
